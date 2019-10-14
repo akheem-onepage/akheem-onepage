@@ -13,6 +13,11 @@ font-weight: 999;
 font-size: 3rem;
 }
 
+.mbody {
+    margin-top: 99px;
+}
+
+
 #ogNavbar .navbar-brand {
     font-size: 1.3rem;
     font-weight: 500;
