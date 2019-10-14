@@ -3,6 +3,16 @@ body {
     font-family:'Be Vietnam', sans-serif;
 }
 
+.info p  { 
+color: whitesmoke;
+font-weight: 25;
+}
+
+.info h2 {
+font-weight: 999;
+font-size: 3rem;
+}
+
 #ogNavbar .navbar-brand {
     font-size: 1.3rem;
     font-weight: 500;
@@ -26,7 +36,7 @@ body {
 }
 
 
-@media (max-width: 1040px) {
+@media (max-width: 1315px) {
     #toptext h1 {
         font-size: 4rem;
       }
