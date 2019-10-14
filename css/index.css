@@ -20,3 +20,14 @@ body {
     padding-left: 0px;
     padding-right: 0px;
 }
+
+#toptext h1 {
+  font-size: 8rem;
+}
+
+
+@media (max-width: 1040px) {
+    #toptext h1 {
+        font-size: 4rem;
+      }
+}
