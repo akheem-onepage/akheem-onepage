@@ -5,7 +5,18 @@ body {
 
 #ogNavbar .navbar-brand {
     font-size: 1.3rem;
-    font-weight: 700;
+    font-weight: 500;
 }
 
-#ogNavbar .nav-link
+#ogNavbar .nav-link {
+    color: black;
+}
+
+#ogNavbar .nav-link:hover {
+    color:whitesmoke;
+}
+
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
