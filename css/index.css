@@ -1,3 +1,11 @@
 body {
-    background: #F4D03F 
+    background:#95A5A6;
+    font-family:'Be Vietnam', sans-serif;
 }
+
+#ogNavbar .navbar-brand {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+#ogNavbar .nav-link
